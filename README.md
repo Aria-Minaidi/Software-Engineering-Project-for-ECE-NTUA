@@ -1,17 +1,14 @@
 # SoftEng
-Ομάδα: 
-<b>Κακό Λογοπαίγνιο</b>
+Members 
 
-Μέλη: 
-
-1. Ευστάθιος Αφουξενίδης <br/>      <pre>    ΑΜ: 03115207</pre><br/> 
+1. Eystathios Afouxenidis <br/>      <pre>    </pre><br/> 
       
-2. Απόστολος Γερακάρης  <br/>        <pre>    ΑΜ: 03114836</pre><br/> 
+2. Apostolos Gerakaris  <br/>        <pre>   </pre><br/> 
       
-3. Ορφέας Μενής – Μαστρομιχαλάκης <br/> <pre>    ΑΜ: 03114052 </pre> <br/> 
+3. Orfeas Menis – Mastromichalakis <br/> <pre>     </pre> <br/> 
       
-4. Μαρία Νεκταρία Μηναΐδη <br/> <pre>    ΑΜ: 03114049 </pre><br/> 
+4. Maria Nektaria Minaidi <br/> <pre>     </pre><br/> 
       
-5. Μαρκέλλα Χαλλιορή <br/> <pre>    ΑΜ: 03114069 </pre><br/> 
+5. Markella Challiori <br/> <pre>     </pre><br/> 
       
-6. Γεώργιος Χανής <br/> <pre>    ΑΜ: 03115116 </pre><br/> 
+6. Georgios Chanis <br/> <pre>    </pre><br/> 
